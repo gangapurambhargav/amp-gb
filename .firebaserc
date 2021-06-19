@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "amp-gb",
+    "apm-gb": "amp-gb"
+  }
+}
